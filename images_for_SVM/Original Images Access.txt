@@ -1,0 +1,3 @@
+This link provide access to the original source of images from which the training samples where retrieved.
+	- https://drive.google.com/open?id=17rD8_SbCgw4NX_Ztq0yzJ9WzfZn0t9BE
+For use it, just decompress the .rar into the folder of images_for_SVM.
